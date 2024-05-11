@@ -6,8 +6,7 @@
 </div>
 <h2>- Full Stack Web Developer skilled in MERN stack.</h2>
 <h2>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems </h2>
-<p align="center">If you like ❤️ my work, Support me by giving the Stars ✨ to my pinned Repos</p>
-<!-- <p align="center">Currently Working on one of the best React Movie and Tv Show Search app</p>  -->
+
 <hr/>
 <br/>
 <img align="right" alt "Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -45,10 +44,8 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" align="center" style="paddding : 5px;" alt="TypeScript" />
 <br/>
 <br/>
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
   
 </div>
@@ -75,18 +72,13 @@
 </div>
 
 <br/>
-  
-  ##
- 
  
  ## 📊 My Github Stats
 
 <p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prashant Verma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant9191&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  <br/>
-
-          
+ 
 <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
 <h2 text-align=center >"Believe you can and you're halfway there" <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt="Motivated"></h2>
