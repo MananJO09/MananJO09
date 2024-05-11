@@ -18,7 +18,6 @@
 <!-- - 👨‍💻 See my Portfolio here -->
 
 - 📫 Reach me at **manandeepjoshi@gmail.com**
-
 - 📄 Know more about me [Resume](https://resume.github.io/?MananJO09)
 - ⚡ Fun fact - *I love Learning About Lastest Technologies 🖊️*
 
