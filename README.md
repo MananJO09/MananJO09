@@ -31,8 +31,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
 <div align="center">
@@ -76,6 +74,7 @@
  ## 📊 My Github Stats
 
 <p align="center">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MananJO09&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  <br/>
